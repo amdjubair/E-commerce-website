@@ -3,7 +3,7 @@ buy bank -eCommerce website with basic features,  two types of user(producer and
 
 Key features 
 #product feed
-#AD product 
+#Add product 
 #user profile 
 #Cart
 #payment gateway(stripe pay)
